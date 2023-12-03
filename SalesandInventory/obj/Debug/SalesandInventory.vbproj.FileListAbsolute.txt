@@ -1,0 +1,571 @@
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.MDIParent1.resources
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+c:\users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Inventory.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Category.resources
+C:\Users\kevin\Documents\Visual Studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Transaction.resources
+C:\Users\kevin\documents\visual studio 2013\Projects\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Category.resources
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Inventory.resources
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.MDIParent1.resources
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Transaction.resources
+C:\Users\John\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Category.resources
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Inventory.resources
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.MDIParent1.resources
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Transaction.resources
+C:\Users\John\Desktop\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+D:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+D:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+D:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+D:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStock.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Inventory.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.MDIParent1.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Stocks.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Transaction.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Documents\ssss\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.CoreCompileInputs.cache
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.MDIParent1.resources
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Transaction.resources
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+C:\Users\Johnn\Desktop\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmCateg.resources
+E:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+E:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+E:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+E:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.MDIParent1.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Transaction.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpo.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+E:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpo.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Mainform.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOSTransact.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpqty.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmvoidqty.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmclient.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddclient.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmposclient.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditclient.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemlookup.resources
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmLogin.resources
+D:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.manifest
+D:\Thesis\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.application
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe.manifest
+D:\Thesis\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.application
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.manifest
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.application
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddclient.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmclient.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditclient.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemlookup.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmLogin.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmposclient.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOSTransact.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpo.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpqty.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmvoidqty.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Mainform.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS.resources
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe.manifest
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.application
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+C:\Users\Johnn\Downloads\Compressed\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpayment.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.manifest
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.application
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddclient.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmclient.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditclient.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemlookup.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmLogin.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpayment.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmposclient.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpo.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpqty.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmvoidqty.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Mainform.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe.manifest
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.application
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOSfullypaid.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.cheque.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmonline.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS50.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frm3mo.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.cheque2.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmonline2.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.RestoreBackupDb.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoview.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printinv.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.inventoryreport.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreportfp.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printfp.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.print50.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreport50.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppdetails.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppselectitem.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewPO.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewposelectitem.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoqty.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmusers.resources
+D:\Thesis Updated 10-18-2022\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.admpass.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.admpass.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.cheque.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.cheque2.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frm3mo.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddclient.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmclient.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditclient.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemlookup.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmLogin.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewPO.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewposelectitem.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmonline.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmonline2.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpayment.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoqty.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS50.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmposclient.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOSfullypaid.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpo.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoview.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpqty.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppdetails.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppselectitem.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmusers.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmvoidqty.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Mainform.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.inventoryreport.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printfp.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printinv.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.RestoreBackupDb.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreport50.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreportfp.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+D:\d\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+D:\d\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.manifest
+D:\d\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.application
+D:\d\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+D:\d\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+D:\d\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe.manifest
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.application
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatepayment50.resources
+D:\d\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.print50.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.manifest
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.application
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.admpass.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.cheque.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.cheque2.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frm3mo.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddclient.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmclient.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditclient.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemlookup.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmLogin.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewPO.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewposelectitem.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmonline.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmonline2.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpayment.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoqty.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS50.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmposclient.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOSfullypaid.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpo.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoview.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpqty.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppdetails.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppselectitem.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatepayment50.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmusers.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmvoidqty.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Mainform.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.inventoryreport.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.print50.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printfp.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printinv.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.RestoreBackupDb.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreport50.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreportfp.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe.manifest
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.application
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdate.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditemployee.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.additemtype.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmedititemtype.resources
+D:\Thesis Updated 10-18-2022\nn\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreceivedpono.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.manifest
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.application
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.additemtype.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.admpass.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddclient.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmclient.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditclient.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditemployee.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmedititemtype.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemlookup.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmLogin.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewPO.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewposelectitem.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpayment.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoqty.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS50.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmposclient.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOSfullypaid.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpqty.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreceivedpono.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppdetails.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppselectitem.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdate.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatepayment50.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmusers.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmvoidqty.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Mainform.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.inventoryreport.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.print50.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printfp.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printinv.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.RestoreBackupDb.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreport50.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreportfp.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe.manifest
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.application
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitem.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitemdetails.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.returned.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemsales.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnfromclient.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitemdetailsfromclient.resources
+D:\Thesis Updated 10-18-2022\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.returnfromclient.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.manifest
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.application
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.additemtype.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.admpass.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddclient.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmclient.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditclient.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditemployee.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmedititemtype.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemlookup.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemsales.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmLogin.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewPO.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewposelectitem.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpayment.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoqty.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS50.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmposclient.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOSfullypaid.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpqty.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreceivedpono.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnfromclient.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitem.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitemdetails.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitemdetailsfromclient.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppdetails.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppselectitem.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdate.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatepayment50.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmusers.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmvoidqty.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Mainform.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.inventoryreport.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.print50.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printfp.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printinv.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.RestoreBackupDb.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.returned.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.returnfromclient.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreport50.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreportfp.resources
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe.manifest
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.application
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+C:\updated 12-04-22\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.config
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe.manifest
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.application
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.exe
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.pdb
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\bin\Debug\SalesandInventory.xml
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbprojResolveAssemblyReference.cache
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.additemtype.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.admpass.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddclient.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmclient.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditclient.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmeditemployee.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmedititemtype.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemlookup.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemsales.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmLogin.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewPO.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmnewposelectitem.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpayment.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpoqty.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS50.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmposclient.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOSfullypaid.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmaddemployee.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAddStck.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmAdd.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEmployee.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmitemtype.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmEdit.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmItems.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmorder.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmpqty.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreceivedpono.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnfromclient.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitem.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitemdetails.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmreturnitemdetailsfromclient.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppadd.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppdetails.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsupplier.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmsuppselectitem.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdate.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatepayment50.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmupdatesupp.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmusers.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmvoidqty.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Mainform.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.Resources.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmInventory.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmReceived.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.frmPOS.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.inventoryreport.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.print50.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printfp.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.printinv.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.RestoreBackupDb.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.returned.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.returnfromclient.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreport50.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.salesreportfp.resources
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.vbproj.GenerateResource.Cache
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe.manifest
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.application
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.exe
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.xml
+D:\Thesis Updated 10-18-2022\OO FINAL NA\FINALE NA SANA\SalesandInventory\SalesandInventory\obj\Debug\SalesandInventory.pdb
